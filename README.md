@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elicapartida
-- 👀 I’m interested in becoming a web developer.
-- 🌱 I’m currently learning SQL, HTML, CSS, and C#.
+- 👀 I’m interested in becoming a full stack developer.
+- 🌱 I’m currently learning SQL, HTML, CSS, and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is my email!
 
